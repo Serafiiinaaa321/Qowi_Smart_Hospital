@@ -313,10 +313,9 @@ if submitted:
                                 transition:width 0.5s ease;"></div>
                 </div>
             </div>
-
+            
         st.markdown(bars_html + """
-            <div style="margin-top:20px;background:#eff6ff;border:1px solid #bfdbfe;
-                        border-radius:10px;padding:12px 14px;font-size:12px;color:#1e40af;">
+            <div style="margin-top:20px;background:#eff6ff;border:1px solid #bfdbfe;border-radius:10px;padding:12px 14px;font-size:12px;color:#1e40af;">
                 <strong>Model:</strong> KNN (k=7) · 102,000 patients · 99.5% accuracy<br>
                 <strong>Powered by:</strong> Future Classroom ML
             </div>
