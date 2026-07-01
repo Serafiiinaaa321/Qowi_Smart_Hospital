@@ -312,7 +312,7 @@ if submitted:
                                 height:100%;border-radius:6px;width:{pct}%;
                                 transition:width 0.5s ease;"></div>
                 </div>
-            </div>
+            </div>"""
             
         st.markdown(bars_html + """
             <div style="margin-top:20px;background:#eff6ff;border:1px solid #bfdbfe;border-radius:10px;padding:12px 14px;font-size:12px;color:#1e40af;">
